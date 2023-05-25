@@ -18,4 +18,5 @@ Additionally, manual_voltage_control.m allows the user to set a voltage signal t
 
 Any omissions, bugs, questions, or comments, please contact me on <e.james.14@ucl.ac.uk>.
 
-Documentation/experimental_setup.jpg
+[Documentation/experimental_setup.jpg
+](https://github.com/edggjames/AngularOpticalMemory/blob/main/Documentation/experimental_setup.jpg)
