@@ -2,7 +2,7 @@ clc
 close all hidden
 clearvars
 imaqreset
-addpath('C:\Users\edggj\Dropbox\desktop\PDRA\Code\Functions')
+% addpath to functions
 
 %% todo
 % add display outputs
@@ -10,8 +10,8 @@ addpath('C:\Users\edggj\Dropbox\desktop\PDRA\Code\Functions')
 % save camera frames on the go, or just at the end?
 
 %% path for log file and camera data to be saved to
-file_path = 'D:\Optical_Memory_Experiment\';
-file_name = '23_05_2023_dataset_2';
+file_path = '';
+file_name = '';
 
 %% set parameters for data acquisition
 params.v_0     = -0.320;     % normal for manual alignment
