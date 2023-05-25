@@ -9,7 +9,7 @@ The main script is develop_interface.m, which allows the user to
 - acquire a preview camera image,
 - acquire data,
 - inspect the experimental log file,
-- correlate the experimental data,
+- preview the correlation of the experimental data (without a translational shift being applied),
 - save the data anf log file for post processing.
 
 All necessary functions are contained with the Functions folder. 
@@ -18,3 +18,4 @@ Additionally, manual_voltage_control.m allows the user to set a voltage signal t
 
 Any omissions, bugs, questions, or comments, please contact me on <e.james.14@ucl.ac.uk>.
 
+Documentation/experimental_setup.jpg
