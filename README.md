@@ -9,7 +9,7 @@ The main script is develop_interface.m, which allows the user to
 - acquire a preview camera image,
 - acquire data,
 - inspect the experimental log file,
-- preview the correlation of the experimental data (without a translational shift being applied),
+- preview the correlation of the experimental data (without compensating for translational shift),
 - save the data anf log file for post processing.
 
 All necessary functions are contained with the Functions folder. 
