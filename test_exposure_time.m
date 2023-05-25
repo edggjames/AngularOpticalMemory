@@ -2,7 +2,6 @@ clc
 close all hidden
 clearvars
 imaqreset
-addpath('C:\Users\edggj\Dropbox\desktop\PDRA\Code\Functions')
 
 % script to assess best exposure time
 
