@@ -10,7 +10,7 @@ The main script is develop_interface.m, which allows the user to
 - acquire data,
 - inspect the experimental log file,
 - correlate the experimental data,
-- save the data for post processing.
+- save the data anf log file for post processing.
 
 All necessary functions are contained with the Functions folder. 
 
