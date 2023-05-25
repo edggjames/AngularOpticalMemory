@@ -14,7 +14,7 @@ The main script is [develop_interface.m](https://github.com/edggjames/AngularOpt
 
 All necessary functions are contained with the Functions folder. 
 
-Additionally, manual_voltage_control.m allows the user to set a voltage signal to the galvo mirror for system alignment. test_exposure_time.m allows the user to view image histograms prior to the experiment so as to select an exposure time that avoids pixel saturation but which makes appropriate use of the dynamic range of the sensor. 
+Additionally, [manual_voltage_control.m](https://github.com/edggjames/AngularOpticalMemory/blob/main/manual_voltage_control.m) allows the user to set a voltage signal to the galvo mirror for system alignment. [test_exposure_time.m](https://github.com/edggjames/AngularOpticalMemory/blob/main/test_exposure_time.m) allows the user to view image histograms prior to the experiment so as to select an exposure time that avoids pixel saturation but which makes appropriate use of the dynamic range of the sensor. 
 
 Any omissions, bugs, questions, or comments, please contact me on <e.james.14@ucl.ac.uk>.
 
