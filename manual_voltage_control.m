@@ -1,7 +1,6 @@
 clc
 close all
 clearvars
-addpath('C:\Users\edggj\Dropbox\desktop\PDRA\Code\Functions')
 
 % manually position mirror for development
 
