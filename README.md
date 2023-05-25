@@ -10,8 +10,9 @@ The main script is develop_interface.m, which allows the user to
 - acquire data,
 - inspect the experimental log file,
 - correlate the experimental data,
-- save the data.
+- save the data for post processing.
 
 All necessary functions are contained with this repository. 
 
 Additionally, manual_voltage_control.m allows the user to set a voltage signal to the galvo mirror for system alignment. test_exposure_time.m allows the user to view image histograms prior to the experiment so as to select an exposure time that avoids pixel saturation but which makes appropriate use of the dynamic range of the sensor. 
+
