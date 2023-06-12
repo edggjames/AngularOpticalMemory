@@ -29,6 +29,8 @@ Additionally, [manual_voltage_control.m](https://github.com/edggjames/AngularOpt
 
 All necessary functions are contained with the Functions folder.
 
+An example data set for a ground glass diffuser can be found here: https://www.dropbox.com/scl/fi/uiwa5b51fgrqrrk3u7mkv/ground_glass_diffuser_data.mat?dl=0&rlkey=yru8nthzzx1inekjqveu9u54y 
+
 Any omissions, bugs, questions, or comments, please contact me on <e.james.14@ucl.ac.uk>.
 
 ![Documentation/experimental_setup.jpg
