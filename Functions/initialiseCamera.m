@@ -8,7 +8,6 @@ camProps = getselectedsource(cam);
 
 %% set camera parameters
 % see https://uk.mathworks.com/help/imaq/working-with-properties.html
-% and also lines 555 to 583 of Hhanalyser.jl
 
 camProps.ExposureTime      = t_exp;
 camProps.ExposureAuto      = 'Off';
