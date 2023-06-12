@@ -10,7 +10,7 @@ The main script is [develop_interface.m](https://github.com/edggjames/AngularOpt
 - acquire data,
 - inspect the experimental log file,
 - preview the correlation of the experimental data (without compensating for translational shift),
-- save the data and log file for post processing.
+- save the data and log file for post processing (e.g. [post_process_data.m]).
 
 All necessary functions are contained with the Functions folder. 
 
