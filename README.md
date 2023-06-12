@@ -12,7 +12,9 @@ The main script is [develop_interface.m](https://github.com/edggjames/AngularOpt
 - preview the correlation of the experimental data (without compensating for translational shift),
 - save the data and log file for post processing (e.g. [post_process_data.m](https://github.com/edggjames/AngularOpticalMemory/blob/main/post_process_data.m)).
 
-[post_process_data.m](https://github.com/edggjames/AngularOpticalMemory/blob/main/post_process_data.m carries out the following functions
+Additionally, [manual_voltage_control.m](https://github.com/edggjames/AngularOpticalMemory/blob/main/manual_voltage_control.m) allows the user to set a voltage signal to the galvo mirror for system alignment. [test_exposure_time.m](https://github.com/edggjames/AngularOpticalMemory/blob/main/test_exposure_time.m) allows the user to view image histograms prior to the experiment so as to select an exposure time that avoids pixel saturation but which makes appropriate use of the dynamic range of the sensor. 
+
+[post_process_data.m](https://github.com/edggjames/AngularOpticalMemory/blob/main/post_process_data.m) carries out the following functions
 - removal of second order polynomial backgrounds from individual camera frames
 - visualisaion of these backgrounds as a montage
 - examination of the experimental log file
@@ -25,9 +27,7 @@ The main script is [develop_interface.m](https://github.com/edggjames/AngularOpt
 - visualisation of translational correlation functions for each image
 - writing of all videos and images to the current working directory
 
-All necessary functions are contained with the Functions folder. 
-
-Additionally, [manual_voltage_control.m](https://github.com/edggjames/AngularOpticalMemory/blob/main/manual_voltage_control.m) allows the user to set a voltage signal to the galvo mirror for system alignment. [test_exposure_time.m](https://github.com/edggjames/AngularOpticalMemory/blob/main/test_exposure_time.m) allows the user to view image histograms prior to the experiment so as to select an exposure time that avoids pixel saturation but which makes appropriate use of the dynamic range of the sensor. 
+All necessary functions are contained with the Functions folder.
 
 Any omissions, bugs, questions, or comments, please contact me on <e.james.14@ucl.ac.uk>.
 
