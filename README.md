@@ -27,7 +27,7 @@ Additionally, [manual_voltage_control.m](https://github.com/edggjames/AngularOpt
 - visualisation of translational correlation functions for each image
 - writing of all videos and images to the current working directory
 
-All necessary functions are contained with the Functions folder
+All necessary functions are contained with the [Functions folder](https://github.com/edggjames/AngularOpticalMemory/tree/main/Functions)
 
 An example data set for a ground glass diffuser can be found [here](https://www.dropbox.com/scl/fi/uiwa5b51fgrqrrk3u7mkv/ground_glass_diffuser_data.mat?dl=0&rlkey=yru8nthzzx1inekjqveu9u54y)
 
