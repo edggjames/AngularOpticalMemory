@@ -22,7 +22,7 @@ Additionally, [manual_voltage_control.m](https://github.com/edggjames/AngularOpt
 - calculation of correlation of unshifted frames
 - model fitting of the unshifted correlation function to theory based on incident beam diameter
 - calculation of correlation of shifted frames
-- visualisation of this correlation function and verification against theory (for both correlation function and translational shift)
+- visualisation of this correlation function and verification against theory for a ground glass diffuser (for both correlation function and translational shift)
 - generation of a video of the shifted camera frame stack
 - visualisation of translational correlation functions for each image
 - writing of all videos and images to the current working directory
