@@ -8,8 +8,6 @@ clearvars
 % 1) pre translational correction
 % 2) post translational correction
 
-addpath('C:\Users\edggj\Dropbox\desktop\PDRA\Code\Functions')
-
 % polynomial removal parameters here
 mode_poly = 'single';
 order = 2;
