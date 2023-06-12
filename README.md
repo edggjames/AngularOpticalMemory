@@ -1,6 +1,6 @@
 # AngularOpticalMemory
 
-This repository contains the code that I have written to control an angular optical memory experiment, as per the paper [Schott _et al_. 2015](https://github.com/edggjames/AngularOpticalMemory/blob/main/Documentation/Schott%20-%202015.pdf) in the [Documentation folder](https://github.com/edggjames/AngularOpticalMemory/tree/main/Documentation)
+This repository contains the code that I have written to control and analyse the data from an angular optical memory experiment, as per the paper [Schott _et al_. 2015](https://github.com/edggjames/AngularOpticalMemory/blob/main/Documentation/Schott%20-%202015.pdf) in the [Documentation folder](https://github.com/edggjames/AngularOpticalMemory/tree/main/Documentation)
 
 The main script is [develop_interface.m](https://github.com/edggjames/AngularOpticalMemory/blob/main/develop_interface.m), which allows the user to 
 - specify experimental parameters,
