@@ -5,7 +5,7 @@ This repository contains the code that I have written to control and analyse the
 The main script is [develop_interface.m](https://github.com/edggjames/AngularOpticalMemory/blob/main/develop_interface.m), which allows the user to 
 - specify experimental parameters,
 - initialise the camera,
-- initialise the DAQ (which controls the galvo mirror),
+- initialise the DAQ (which controls and reads the position of the galvo mirror),
 - acquire a preview camera image,
 - acquire data,
 - inspect the experimental log file,
